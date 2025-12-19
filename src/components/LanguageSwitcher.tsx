@@ -4,7 +4,7 @@ import { usePathname, useRouter } from 'next/navigation';
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Globe, ChevronDown } from 'lucide-react';
-import { locales, localeNames, type Locale } from '@/i18n';
+import { locales, localeNames, type Locale } from '@/i18n/routing';
 
 export default function LanguageSwitcher() {
   const pathname = usePathname();
@@ -66,4 +66,3 @@ export default function LanguageSwitcher() {
     </div>
   );
 }
-
