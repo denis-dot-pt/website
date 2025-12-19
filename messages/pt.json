@@ -1,0 +1,124 @@
+{
+  "nav": {
+    "home": "Início",
+    "services": "Serviços",
+    "skills": "Competências",
+    "about": "Sobre",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "badge": "Excelência em Desenvolvimento de Software",
+    "title": "Criando Experiências",
+    "titleHighlight": "Digitais",
+    "subtitle": "Transformamos ideias em soluções de software poderosas. Especializados em desenvolvimento TypeScript, React, React Native e Next.js.",
+    "cta": "Iniciar Projeto",
+    "ctaSecondary": "Ver Trabalhos",
+    "stats": {
+      "projects": "Projetos Entregues",
+      "satisfaction": "Satisfação do Cliente",
+      "technologies": "Tecnologias"
+    }
+  },
+  "services": {
+    "badge": "O Que Fazemos",
+    "title": "Serviços",
+    "subtitle": "Soluções de software abrangentes adaptadas às necessidades do seu negócio",
+    "items": {
+      "webDev": {
+        "title": "Desenvolvimento Web",
+        "description": "Aplicações web modernas e responsivas construídas com Next.js e React. Desempenho ultra-rápido com otimização SEO."
+      },
+      "mobileDev": {
+        "title": "Desenvolvimento Mobile",
+        "description": "Apps mobile multiplataforma com React Native. Uma base de código, desempenho nativo em iOS e Android."
+      },
+      "consulting": {
+        "title": "Consultoria TI",
+        "description": "Orientação tecnológica estratégica. Arquitetura de sistemas, transformação digital e planeamento de roadmaps técnicos."
+      },
+      "customSoftware": {
+        "title": "Software Personalizado",
+        "description": "Soluções de software sob medida, desenhadas e desenvolvidas para satisfazer os requisitos únicos do seu negócio."
+      },
+      "eventOrg": {
+        "title": "Tecnologia para Eventos",
+        "description": "Soluções digitais para conferências, feiras e eventos corporativos. Sistemas de registo, apps e plataformas de gestão."
+      },
+      "maintenance": {
+        "title": "Suporte e Manutenção",
+        "description": "Suporte técnico contínuo, atualizações e manutenção para manter os seus sistemas a funcionar sem problemas."
+      }
+    }
+  },
+  "skills": {
+    "badge": "A Nossa Expertise",
+    "title": "Tecnologias que Dominamos",
+    "subtitle": "Anos de experiência com tecnologias de ponta",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "mobile": "Mobile",
+      "tools": "Ferramentas & DevOps"
+    }
+  },
+  "about": {
+    "badge": "Sobre a Denis.pt",
+    "title": "Construindo o Futuro do Software",
+    "description": "Sediada na bela ilha da Madeira, Portugal, a Denis.pt é uma empresa de desenvolvimento de software focada em entregar soluções digitais excecionais. Combinamos expertise técnica com inovação criativa para construir software que faz a diferença.",
+    "mission": {
+      "title": "A Nossa Missão",
+      "text": "Capacitar negócios com soluções de software de ponta que impulsionam crescimento, eficiência e inovação."
+    },
+    "values": {
+      "title": "Os Nossos Valores",
+      "items": {
+        "quality": "Qualidade Primeiro",
+        "innovation": "Inovação",
+        "transparency": "Transparência",
+        "commitment": "Compromisso"
+      }
+    },
+    "info": {
+      "founded": "Fundada",
+      "foundedValue": "2024",
+      "location": "Localização",
+      "locationValue": "Funchal, Madeira",
+      "legal": "Forma Jurídica",
+      "legalValue": "Sociedade Unipessoal"
+    }
+  },
+  "contact": {
+    "badge": "Entre em Contacto",
+    "title": "Vamos Construir Algo Incrível",
+    "subtitle": "Pronto para iniciar o seu projeto? Adoraríamos ouvir de si.",
+    "form": {
+      "name": "O Seu Nome",
+      "email": "O Seu Email",
+      "message": "A Sua Mensagem",
+      "send": "Enviar Mensagem"
+    },
+    "info": {
+      "address": "Morada",
+      "addressValue": "Estrada Monumental, Nº 277, Bloco 5, 1º E\n9000-250 São Martinho, Funchal\nMadeira, Portugal",
+      "email": "Email",
+      "activities": "Atividades"
+    }
+  },
+  "footer": {
+    "description": "Empresa de desenvolvimento de software especializada em aplicações web e mobile.",
+    "copyright": "© {year} Denis.pt. Todos os direitos reservados.",
+    "cae": {
+      "title": "Códigos CAE",
+      "programming": "Programação Informática",
+      "accommodation": "Alojamento Mobilado",
+      "consulting": "Consultoria Informática",
+      "events": "Organização de Eventos"
+    }
+  },
+  "cta": {
+    "title": "Pronto para Começar?",
+    "subtitle": "Vamos transformar as suas ideias em realidade. Entre em contacto hoje.",
+    "button": "Contacte-nos"
+  }
+}
+
