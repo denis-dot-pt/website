@@ -1,9 +1,14 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
+import Link from 'next/link';
+import { usePathname } from 'next/navigation';
 
 export default function Footer() {
   const t = useTranslations('footer');
+  const tNav = useTranslations('nav');
+  const pathname = usePathname();
+  const locale = pathname.split('/')[1];
   const currentYear = new Date().getFullYear();
 
   const caeItems = [
@@ -11,6 +16,14 @@ export default function Footer() {
     { key: 'consulting', code: '62020' },
     { key: 'events', code: '82300' },
     { key: 'accommodation', code: '55201' },
+  ];
+
+  const navItems = [
+    { key: 'home', href: '#home' },
+    { key: 'services', href: '#services' },
+    { key: 'skills', href: '#skills' },
+    { key: 'about', href: '#about' },
+    { key: 'contact', href: '#contact' },
   ];
 
   return (
@@ -49,30 +62,20 @@ export default function Footer() {
           <div>
             <h4 className="font-display font-bold text-white mb-4">Quick Links</h4>
             <ul className="space-y-3">
+              {navItems.map((item) => (
+                <li key={item.key}>
+                  <a href={item.href} className="text-sm text-gray-400 hover:text-primary-400 transition-colors">
+                    {tNav(item.key)}
+                  </a>
+                </li>
+              ))}
               <li>
-                <a href="#home" className="text-sm text-gray-400 hover:text-primary-400 transition-colors">
-                  Home
-                </a>
-              </li>
-              <li>
-                <a href="#services" className="text-sm text-gray-400 hover:text-primary-400 transition-colors">
-                  Services
-                </a>
-              </li>
-              <li>
-                <a href="#skills" className="text-sm text-gray-400 hover:text-primary-400 transition-colors">
-                  Skills
-                </a>
-              </li>
-              <li>
-                <a href="#about" className="text-sm text-gray-400 hover:text-primary-400 transition-colors">
-                  About
-                </a>
-              </li>
-              <li>
-                <a href="#contact" className="text-sm text-gray-400 hover:text-primary-400 transition-colors">
-                  Contact
-                </a>
+                <Link 
+                  href={`/${locale}/imprint`} 
+                  className="text-sm text-gray-400 hover:text-primary-400 transition-colors"
+                >
+                  {t('imprint')}
+                </Link>
               </li>
             </ul>
           </div>
@@ -83,12 +86,20 @@ export default function Footer() {
           <p className="text-sm text-gray-500">
             {t('copyright', { year: currentYear })}
           </p>
-          <p className="text-sm text-gray-500">
-            Made with ❤️ in Madeira, Portugal
-          </p>
+          <div className="flex items-center gap-4">
+            <Link 
+              href={`/${locale}/imprint`} 
+              className="text-sm text-gray-500 hover:text-primary-400 transition-colors"
+            >
+              {t('imprint')}
+            </Link>
+            <span className="text-gray-600">•</span>
+            <p className="text-sm text-gray-500">
+              Made with ❤️ in Madeira, Portugal
+            </p>
+          </div>
         </div>
       </div>
     </footer>
   );
 }
-

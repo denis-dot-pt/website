@@ -3,6 +3,7 @@ import { NextIntlClientProvider } from 'next-intl';
 import { getMessages, setRequestLocale } from 'next-intl/server';
 import { notFound } from 'next/navigation';
 import { locales, type Locale } from '@/i18n/routing';
+import CookieBanner from '@/components/CookieBanner';
 import '../globals.css';
 
 export const metadata: Metadata = {
@@ -44,6 +45,7 @@ export default async function LocaleLayout({
       <body className="gradient-bg noise min-h-screen antialiased">
         <NextIntlClientProvider messages={messages}>
           {children}
+          <CookieBanner />
         </NextIntlClientProvider>
       </body>
     </html>

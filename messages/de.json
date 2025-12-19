@@ -4,7 +4,8 @@
     "services": "Leistungen",
     "skills": "Kompetenzen",
     "about": "Über uns",
-    "contact": "Kontakt"
+    "contact": "Kontakt",
+    "imprint": "Impressum"
   },
   "hero": {
     "badge": "Software-Entwicklung auf höchstem Niveau",
@@ -107,6 +108,7 @@
   "footer": {
     "description": "Softwareentwicklungsunternehmen spezialisiert auf Web- und Mobile-Anwendungen.",
     "copyright": "© {year} Denis.pt. Alle Rechte vorbehalten.",
+    "imprint": "Impressum",
     "cae": {
       "title": "CAE-Codes",
       "programming": "Software-Programmierung",
@@ -119,6 +121,45 @@
     "title": "Bereit Loszulegen?",
     "subtitle": "Lassen Sie uns Ihre Ideen in die Realität umsetzen. Kontaktieren Sie uns heute.",
     "button": "Kontakt Aufnehmen"
+  },
+  "cookies": {
+    "title": "Wir verwenden Cookies",
+    "description": "Wir verwenden Cookies, um Ihr Browsing-Erlebnis zu verbessern und unseren Datenverkehr zu analysieren. Durch Klicken auf \"Alle akzeptieren\" stimmen Sie der Verwendung von Cookies zu.",
+    "learnMore": "Mehr erfahren",
+    "acceptAll": "Alle akzeptieren",
+    "acceptNecessary": "Nur Notwendige"
+  },
+  "imprint": {
+    "title": "Impressum",
+    "company": {
+      "title": "Angaben gemäß § 5 TMG",
+      "address": "Adresse"
+    },
+    "legal": {
+      "title": "Rechtliche Angaben",
+      "form": "Rechtsform",
+      "capital": "Stammkapital",
+      "founded": "Gegründet",
+      "location": "Firmensitz"
+    },
+    "contact": {
+      "title": "Kontakt",
+      "email": "E-Mail"
+    },
+    "activities": {
+      "title": "Geschäftstätigkeiten (CAE-Codes)",
+      "programming": "Software-Programmierungstätigkeiten",
+      "consulting": "IT-Beratungstätigkeiten",
+      "events": "Organisation von Messen, Kongressen und ähnlichen Veranstaltungen",
+      "accommodation": "Möblierte Unterkunft"
+    },
+    "disclaimer": {
+      "title": "Haftungsausschluss",
+      "text": "Die auf dieser Website bereitgestellten Informationen dienen nur allgemeinen Informationszwecken. Obwohl wir uns bemühen, die Informationen aktuell und korrekt zu halten, geben wir keine Zusicherungen oder Garantien jeglicher Art über die Vollständigkeit, Genauigkeit, Zuverlässigkeit, Eignung oder Verfügbarkeit der Website oder der darin enthaltenen Informationen."
+    },
+    "copyright": {
+      "title": "Urheberrecht",
+      "text": "Alle Inhalte dieser Website, einschließlich Texte, Grafiken, Logos und Bilder, sind Eigentum von Denis.pt und durch Urheberrechtsgesetze geschützt. Die Vervielfältigung, Verbreitung oder jede andere Form der Nutzung ohne vorherige schriftliche Genehmigung ist untersagt."
+    }
   }
 }
-

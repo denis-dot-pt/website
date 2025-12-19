@@ -4,7 +4,8 @@
     "services": "Services",
     "skills": "Skills",
     "about": "About",
-    "contact": "Contact"
+    "contact": "Contact",
+    "imprint": "Imprint"
   },
   "hero": {
     "badge": "Software Development Excellence",
@@ -107,6 +108,7 @@
   "footer": {
     "description": "Software development company specialized in web and mobile applications.",
     "copyright": "© {year} Denis.pt. All rights reserved.",
+    "imprint": "Imprint",
     "cae": {
       "title": "CAE Codes",
       "programming": "Software Programming",
@@ -119,6 +121,45 @@
     "title": "Ready to Start?",
     "subtitle": "Let's transform your ideas into reality. Get in touch today.",
     "button": "Contact Us"
+  },
+  "cookies": {
+    "title": "We use cookies",
+    "description": "We use cookies to enhance your browsing experience and analyze our traffic. By clicking \"Accept All\", you consent to our use of cookies.",
+    "learnMore": "Learn more",
+    "acceptAll": "Accept All",
+    "acceptNecessary": "Necessary Only"
+  },
+  "imprint": {
+    "title": "Imprint",
+    "company": {
+      "title": "Company Information",
+      "address": "Address"
+    },
+    "legal": {
+      "title": "Legal Details",
+      "form": "Legal Form",
+      "capital": "Share Capital",
+      "founded": "Founded",
+      "location": "Registered Office"
+    },
+    "contact": {
+      "title": "Contact",
+      "email": "Email"
+    },
+    "activities": {
+      "title": "Business Activities (CAE Codes)",
+      "programming": "Software programming activities",
+      "consulting": "IT consulting activities",
+      "events": "Organization of fairs, congresses and similar events",
+      "accommodation": "Furnished accommodation"
+    },
+    "disclaimer": {
+      "title": "Disclaimer",
+      "text": "The information provided on this website is for general informational purposes only. While we strive to keep the information up to date and correct, we make no representations or warranties of any kind about the completeness, accuracy, reliability, suitability or availability of the website or the information contained on the website."
+    },
+    "copyright": {
+      "title": "Copyright",
+      "text": "All content on this website, including text, graphics, logos, and images, is the property of Denis.pt and is protected by copyright laws. Reproduction, distribution, or any form of usage without prior written permission is prohibited."
+    }
   }
 }
-

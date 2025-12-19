@@ -4,7 +4,8 @@
     "services": "Serviços",
     "skills": "Competências",
     "about": "Sobre",
-    "contact": "Contacto"
+    "contact": "Contacto",
+    "imprint": "Impressum"
   },
   "hero": {
     "badge": "Excelência em Desenvolvimento de Software",
@@ -107,6 +108,7 @@
   "footer": {
     "description": "Empresa de desenvolvimento de software especializada em aplicações web e mobile.",
     "copyright": "© {year} Denis.pt. Todos os direitos reservados.",
+    "imprint": "Impressum",
     "cae": {
       "title": "Códigos CAE",
       "programming": "Programação Informática",
@@ -119,6 +121,45 @@
     "title": "Pronto para Começar?",
     "subtitle": "Vamos transformar as suas ideias em realidade. Entre em contacto hoje.",
     "button": "Contacte-nos"
+  },
+  "cookies": {
+    "title": "Utilizamos cookies",
+    "description": "Utilizamos cookies para melhorar a sua experiência de navegação e analisar o nosso tráfego. Ao clicar em \"Aceitar Todos\", consente o uso de cookies.",
+    "learnMore": "Saber mais",
+    "acceptAll": "Aceitar Todos",
+    "acceptNecessary": "Apenas Necessários"
+  },
+  "imprint": {
+    "title": "Impressum",
+    "company": {
+      "title": "Informações da Empresa",
+      "address": "Morada"
+    },
+    "legal": {
+      "title": "Detalhes Legais",
+      "form": "Forma Jurídica",
+      "capital": "Capital Social",
+      "founded": "Fundada",
+      "location": "Sede"
+    },
+    "contact": {
+      "title": "Contacto",
+      "email": "Email"
+    },
+    "activities": {
+      "title": "Atividades Comerciais (Códigos CAE)",
+      "programming": "Atividades de programação informática",
+      "consulting": "Atividades de consultoria em informática",
+      "events": "Organização de feiras, congressos e outros eventos similares",
+      "accommodation": "Alojamento mobilado"
+    },
+    "disclaimer": {
+      "title": "Aviso Legal",
+      "text": "As informações fornecidas neste website são apenas para fins informativos gerais. Embora nos esforcemos para manter as informações atualizadas e corretas, não fazemos representações ou garantias de qualquer tipo sobre a integridade, precisão, fiabilidade, adequação ou disponibilidade do website ou das informações nele contidas."
+    },
+    "copyright": {
+      "title": "Direitos de Autor",
+      "text": "Todo o conteúdo deste website, incluindo texto, gráficos, logotipos e imagens, é propriedade da Denis.pt e está protegido por leis de direitos de autor. A reprodução, distribuição ou qualquer forma de utilização sem autorização prévia por escrito é proibida."
+    }
   }
 }
-
