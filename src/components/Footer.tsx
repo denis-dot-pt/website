@@ -77,6 +77,14 @@ export default function Footer() {
                   {t('imprint')}
                 </Link>
               </li>
+              <li>
+                <Link 
+                  href={`/${locale}/privacy`} 
+                  className="text-sm text-gray-400 hover:text-primary-400 transition-colors"
+                >
+                  {t('privacy')}
+                </Link>
+              </li>
             </ul>
           </div>
         </div>
@@ -92,6 +100,13 @@ export default function Footer() {
               className="text-sm text-gray-500 hover:text-primary-400 transition-colors"
             >
               {t('imprint')}
+            </Link>
+            <span className="text-gray-600">•</span>
+            <Link 
+              href={`/${locale}/privacy`} 
+              className="text-sm text-gray-500 hover:text-primary-400 transition-colors"
+            >
+              {t('privacy')}
             </Link>
             <span className="text-gray-600">•</span>
             <p className="text-sm text-gray-500">

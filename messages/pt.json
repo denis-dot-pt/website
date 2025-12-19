@@ -109,6 +109,7 @@
     "description": "Empresa de desenvolvimento de software especializada em aplicações web e mobile.",
     "copyright": "© {year} Denis.pt. Todos os direitos reservados.",
     "imprint": "Impressum",
+    "privacy": "Política de Privacidade",
     "cae": {
       "title": "Códigos CAE",
       "programming": "Programação Informática",
@@ -124,10 +125,40 @@
   },
   "cookies": {
     "title": "Utilizamos cookies",
-    "description": "Utilizamos cookies para melhorar a sua experiência de navegação e analisar o nosso tráfego. Ao clicar em \"Aceitar Todos\", consente o uso de cookies.",
-    "learnMore": "Saber mais",
+    "description": "Este website utiliza apenas cookies essenciais para memorizar a sua preferência de cookies. Não utilizamos cookies de rastreamento ou de terceiros.",
+    "learnMore": "Política de Privacidade",
     "acceptAll": "Aceitar Todos",
     "acceptNecessary": "Apenas Necessários"
+  },
+  "privacy": {
+    "badge": "A Sua Privacidade Importa",
+    "title": "Política de Privacidade",
+    "lastUpdated": "Última atualização",
+    "overview": {
+      "title": "Visão Geral",
+      "text": "Na Denis.pt, estamos comprometidos em proteger a sua privacidade. Esta política de privacidade explica como tratamos as informações quando visita o nosso website. A versão resumida: respeitamos a sua privacidade e recolhemos dados mínimos."
+    },
+    "dataCollection": {
+      "title": "Dados que Recolhemos",
+      "text": "Não recolhemos quaisquer dados pessoais através deste website. Não utilizamos serviços de análise, pixels de rastreamento ou qualquer forma de monitorização do comportamento do utilizador. Quando nos contacta por email, utilizamos as suas informações apenas para responder à sua consulta."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "text": "Este website utiliza apenas um cookie essencial para memorizar a sua preferência de consentimento de cookies. Este cookie é armazenado localmente no seu navegador e não é enviado para servidores externos. Não utilizamos cookies de terceiros, cookies de publicidade ou cookies de rastreamento.",
+      "note": "Cookie utilizado: 'cookie-consent' - Armazena a sua escolha de preferência de cookies. Nenhum dado pessoal é recolhido."
+    },
+    "thirdParty": {
+      "title": "Serviços de Terceiros",
+      "text": "Este website não integra quaisquer serviços de terceiros que recolham os seus dados. Não utilizamos Google Analytics, Facebook Pixel ou quaisquer outros serviços de rastreamento ou publicidade. As fontes utilizadas neste website são carregadas de serviços externos (Google Fonts, Fontshare), mas estes serviços não recebem informações pessoais suas."
+    },
+    "contact": {
+      "title": "Informações de Contacto",
+      "text": "Se tiver alguma questão sobre esta política de privacidade ou sobre como tratamos os seus dados, por favor contacte-nos em:"
+    },
+    "rights": {
+      "title": "Os Seus Direitos",
+      "text": "Ao abrigo do RGPD, tem o direito de aceder, corrigir ou eliminar quaisquer dados pessoais que possamos ter sobre si. Como não recolhemos dados pessoais através deste website, tipicamente não há dados para aceder, corrigir ou eliminar. Se nos contactou por email, pode solicitar a eliminação da sua correspondência a qualquer momento."
+    }
   },
   "imprint": {
     "title": "Impressum",

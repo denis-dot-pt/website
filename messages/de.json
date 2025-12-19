@@ -109,6 +109,7 @@
     "description": "Softwareentwicklungsunternehmen spezialisiert auf Web- und Mobile-Anwendungen.",
     "copyright": "© {year} Denis.pt. Alle Rechte vorbehalten.",
     "imprint": "Impressum",
+    "privacy": "Datenschutz",
     "cae": {
       "title": "CAE-Codes",
       "programming": "Software-Programmierung",
@@ -124,10 +125,40 @@
   },
   "cookies": {
     "title": "Wir verwenden Cookies",
-    "description": "Wir verwenden Cookies, um Ihr Browsing-Erlebnis zu verbessern und unseren Datenverkehr zu analysieren. Durch Klicken auf \"Alle akzeptieren\" stimmen Sie der Verwendung von Cookies zu.",
-    "learnMore": "Mehr erfahren",
+    "description": "Diese Website verwendet nur wesentliche Cookies, um Ihre Cookie-Präferenz zu speichern. Wir verwenden keine Tracking- oder Drittanbieter-Cookies.",
+    "learnMore": "Datenschutzerklärung",
     "acceptAll": "Alle akzeptieren",
     "acceptNecessary": "Nur Notwendige"
+  },
+  "privacy": {
+    "badge": "Ihre Privatsphäre ist uns wichtig",
+    "title": "Datenschutzerklärung",
+    "lastUpdated": "Zuletzt aktualisiert",
+    "overview": {
+      "title": "Übersicht",
+      "text": "Bei Denis.pt sind wir dem Schutz Ihrer Privatsphäre verpflichtet. Diese Datenschutzerklärung erklärt, wie wir Informationen behandeln, wenn Sie unsere Website besuchen. Die Kurzfassung: Wir respektieren Ihre Privatsphäre und erheben minimale Daten."
+    },
+    "dataCollection": {
+      "title": "Daten, die wir erheben",
+      "text": "Wir erheben keine personenbezogenen Daten über diese Website. Wir verwenden keine Analysedienste, Tracking-Pixel oder irgendeine Form der Überwachung des Nutzerverhaltens. Wenn Sie uns per E-Mail kontaktieren, verwenden wir Ihre Informationen nur, um auf Ihre Anfrage zu antworten."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "text": "Diese Website verwendet nur einen wesentlichen Cookie, um Ihre Cookie-Einwilligungspräferenz zu speichern. Dieser Cookie wird lokal in Ihrem Browser gespeichert und wird nicht an externe Server gesendet. Wir verwenden keine Drittanbieter-Cookies, Werbe-Cookies oder Tracking-Cookies.",
+      "note": "Verwendeter Cookie: 'cookie-consent' - Speichert Ihre Cookie-Präferenzwahl. Es werden keine personenbezogenen Daten erhoben."
+    },
+    "thirdParty": {
+      "title": "Drittanbieter-Dienste",
+      "text": "Diese Website integriert keine Drittanbieter-Dienste, die Ihre Daten erheben. Wir verwenden kein Google Analytics, Facebook Pixel oder andere Tracking- oder Werbedienste. Die auf dieser Website verwendeten Schriftarten werden von externen Diensten geladen (Google Fonts, Fontshare), aber diese Dienste erhalten keine persönlichen Informationen von Ihnen."
+    },
+    "contact": {
+      "title": "Kontaktinformationen",
+      "text": "Wenn Sie Fragen zu dieser Datenschutzerklärung oder zum Umgang mit Ihren Daten haben, kontaktieren Sie uns bitte unter:"
+    },
+    "rights": {
+      "title": "Ihre Rechte",
+      "text": "Gemäß der DSGVO haben Sie das Recht, auf personenbezogene Daten, die wir möglicherweise über Sie haben, zuzugreifen, diese zu korrigieren oder zu löschen. Da wir keine personenbezogenen Daten über diese Website erheben, gibt es in der Regel keine Daten, auf die zugegriffen, die korrigiert oder gelöscht werden könnten. Wenn Sie uns per E-Mail kontaktiert haben, können Sie jederzeit die Löschung Ihrer Korrespondenz anfordern."
+    }
   },
   "imprint": {
     "title": "Impressum",

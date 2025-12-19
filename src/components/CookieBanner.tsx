@@ -67,7 +67,7 @@ export default function CookieBanner() {
                   <p className="text-gray-400 text-sm leading-relaxed mb-4">
                     {t('description')}{' '}
                     <Link
-                      href={`/${locale}/imprint`}
+                      href={`/${locale}/privacy`}
                       className="text-primary-400 hover:text-primary-300 underline transition-colors"
                     >
                       {t('learnMore')}

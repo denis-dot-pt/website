@@ -109,6 +109,7 @@
     "description": "Software development company specialized in web and mobile applications.",
     "copyright": "© {year} Denis.pt. All rights reserved.",
     "imprint": "Imprint",
+    "privacy": "Privacy Policy",
     "cae": {
       "title": "CAE Codes",
       "programming": "Software Programming",
@@ -124,10 +125,40 @@
   },
   "cookies": {
     "title": "We use cookies",
-    "description": "We use cookies to enhance your browsing experience and analyze our traffic. By clicking \"Accept All\", you consent to our use of cookies.",
-    "learnMore": "Learn more",
+    "description": "This website only uses essential cookies to remember your cookie preference. We do not use any tracking or third-party cookies.",
+    "learnMore": "Privacy Policy",
     "acceptAll": "Accept All",
     "acceptNecessary": "Necessary Only"
+  },
+  "privacy": {
+    "badge": "Your Privacy Matters",
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated",
+    "overview": {
+      "title": "Overview",
+      "text": "At Denis.pt, we are committed to protecting your privacy. This privacy policy explains how we handle information when you visit our website. The short version: we respect your privacy and collect minimal data."
+    },
+    "dataCollection": {
+      "title": "Data We Collect",
+      "text": "We do not collect any personal data through this website. We do not use analytics services, tracking pixels, or any form of user behavior monitoring. When you contact us via email, we only use your information to respond to your inquiry."
+    },
+    "cookies": {
+      "title": "Cookies",
+      "text": "This website uses only one essential cookie to remember your cookie consent preference. This cookie is stored locally in your browser and is not sent to any external servers. We do not use any third-party cookies, advertising cookies, or tracking cookies.",
+      "note": "Cookie used: 'cookie-consent' - Stores your cookie preference choice. No personal data is collected."
+    },
+    "thirdParty": {
+      "title": "Third-Party Services",
+      "text": "This website does not integrate any third-party services that collect your data. We do not use Google Analytics, Facebook Pixel, or any other tracking or advertising services. The fonts used on this website are loaded from external services (Google Fonts, Fontshare) but these services do not receive any personal information from you."
+    },
+    "contact": {
+      "title": "Contact Information",
+      "text": "If you have any questions about this privacy policy or how we handle your data, please contact us at:"
+    },
+    "rights": {
+      "title": "Your Rights",
+      "text": "Under GDPR, you have the right to access, correct, or delete any personal data we may hold about you. Since we do not collect personal data through this website, there is typically no data to access, correct, or delete. If you have contacted us via email, you may request deletion of your correspondence at any time."
+    }
   },
   "imprint": {
     "title": "Imprint",
