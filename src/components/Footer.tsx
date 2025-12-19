@@ -1,7 +1,6 @@
 'use client';
 
 import { useTranslations } from 'next-intl';
-import { Github, Linkedin, Twitter } from 'lucide-react';
 
 export default function Footer() {
   const t = useTranslations('footer');
@@ -28,29 +27,9 @@ export default function Footer() {
                 Denis<span className="text-primary-500">.pt</span>
               </span>
             </div>
-            <p className="text-gray-400 mb-6 max-w-sm">
+            <p className="text-gray-400 max-w-sm">
               {t('description')}
             </p>
-            <div className="flex gap-4">
-              <a
-                href="#"
-                className="w-10 h-10 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center text-gray-400 hover:text-white hover:bg-white/10 hover:border-white/20 transition-all"
-              >
-                <Github className="w-5 h-5" />
-              </a>
-              <a
-                href="#"
-                className="w-10 h-10 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center text-gray-400 hover:text-white hover:bg-white/10 hover:border-white/20 transition-all"
-              >
-                <Linkedin className="w-5 h-5" />
-              </a>
-              <a
-                href="#"
-                className="w-10 h-10 rounded-xl bg-white/5 border border-white/10 flex items-center justify-center text-gray-400 hover:text-white hover:bg-white/10 hover:border-white/20 transition-all"
-              >
-                <Twitter className="w-5 h-5" />
-              </a>
-            </div>
           </div>
 
           {/* CAE Codes */}
