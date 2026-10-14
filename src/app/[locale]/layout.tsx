@@ -7,13 +7,13 @@ import CookieBanner from '@/components/CookieBanner';
 import '../globals.css';
 
 export const metadata: Metadata = {
-  title: 'Denis.pt | Software Development Excellence',
-  description: 'Professional software development company specialized in TypeScript, React, React Native, and Next.js. Based in Madeira, Portugal.',
-  keywords: ['software development', 'web development', 'mobile apps', 'React', 'Next.js', 'TypeScript', 'React Native', 'Portugal', 'Madeira'],
+  title: 'Denis.pt | AI-First Software Development',
+  description: 'AI-first software development company in Madeira, Portugal. LLM integrations, AI agents, and web and mobile apps built with TypeScript, React, React Native and Next.js.',
+  keywords: ['AI development', 'AI-first', 'LLM integration', 'AI agents', 'AI consulting', 'software development', 'web development', 'mobile apps', 'React', 'Next.js', 'TypeScript', 'React Native', 'Portugal', 'Madeira'],
   authors: [{ name: 'Denis.pt' }],
   openGraph: {
-    title: 'Denis.pt | Software Development Excellence',
-    description: 'Professional software development company specialized in TypeScript, React, React Native, and Next.js.',
+    title: 'Denis.pt | AI-First Software Development',
+    description: 'AI-first software development: LLM integrations, AI agents, and web and mobile apps built with TypeScript, React, React Native and Next.js.',
     type: 'website',
     locale: 'en_US',
   },

@@ -8,12 +8,12 @@
     "imprint": "Imprint"
   },
   "hero": {
-    "badge": "Software Development Excellence",
-    "title": "Crafting Digital",
-    "titleHighlight": "Experiences",
-    "subtitle": "We transform ideas into powerful software solutions. Specialized in TypeScript, React, React Native, and Next.js development.",
-    "cta": "Start Your Project",
-    "ctaSecondary": "View Our Work",
+    "badge": "AI engineering & software development",
+    "title": "AI-First",
+    "titleHighlight": "Software",
+    "subtitle": "We build software with AI at the core: LLM features and agents inside your product, and an AI-assisted workflow on our side. Our stack is TypeScript, React, React Native and Next.js.",
+    "cta": "Start a project",
+    "ctaSecondary": "See our services",
     "stats": {
       "projects": "Projects Delivered",
       "satisfaction": "Client Satisfaction",
@@ -21,40 +21,40 @@
     }
   },
   "services": {
-    "badge": "What We Do",
+    "badge": "What we do",
     "title": "Services",
-    "subtitle": "Comprehensive software solutions tailored to your business needs",
+    "subtitle": "AI runs through all of it, whether you need a new product or want to add AI to one you already have.",
     "items": {
       "webDev": {
-        "title": "Web Development",
-        "description": "Modern, responsive web applications built with Next.js and React. Lightning-fast performance with SEO optimization."
+        "title": "Web development",
+        "description": "Fast, SEO-friendly web apps in Next.js and React, with AI features like chat, search or content generation where they make sense."
       },
       "mobileDev": {
-        "title": "Mobile Development",
-        "description": "Cross-platform mobile apps with React Native. One codebase, native performance on iOS and Android."
+        "title": "Mobile development",
+        "description": "iOS and Android apps from one React Native codebase, with AI features where they help your users."
       },
       "consulting": {
-        "title": "IT Consulting",
-        "description": "Strategic technology guidance. System architecture, digital transformation, and technical roadmap planning."
+        "title": "AI & IT consulting",
+        "description": "We help you work out where AI pays off in your business, which models and tools fit, and how to get from prototype to production. System architecture and technical roadmaps too."
       },
       "customSoftware": {
-        "title": "Custom Software",
-        "description": "Bespoke software solutions designed and developed to meet your unique business requirements."
+        "title": "Custom software",
+        "description": "Software built around your requirements, including LLM integrations, AI agents and automations that work with your own data."
       },
       "eventOrg": {
-        "title": "Event Technology",
-        "description": "Digital solutions for conferences, fairs, and corporate events. Registration systems, apps, and management platforms."
+        "title": "Event technology",
+        "description": "Registration systems, apps and management platforms for conferences, fairs and corporate events."
       },
       "maintenance": {
-        "title": "Support & Maintenance",
-        "description": "Ongoing technical support, updates, and maintenance to keep your systems running smoothly."
+        "title": "Support & maintenance",
+        "description": "Technical support, updates and maintenance after launch, so your systems keep running."
       }
     }
   },
   "skills": {
-    "badge": "Our Expertise",
-    "title": "Technologies We Master",
-    "subtitle": "Years of experience with cutting-edge technologies",
+    "badge": "Our expertise",
+    "title": "Our stack",
+    "subtitle": "The technologies we work with every day.",
     "categories": {
       "frontend": "Frontend",
       "backend": "Backend",
@@ -64,17 +64,17 @@
   },
   "about": {
     "badge": "About Denis.pt",
-    "title": "Building the Future of Software",
-    "description": "Based in the beautiful island of Madeira, Portugal, Denis.pt is a software development company focused on delivering exceptional digital solutions. We combine technical expertise with creative innovation to build software that makes a difference.",
+    "title": "An AI-first software company",
+    "description": "Denis.pt is a software development company based in Funchal, Madeira. We are AI-first: we use AI in how we build software and we put it into the products we deliver. We also know where it helps and where it doesn't.",
     "mission": {
-      "title": "Our Mission",
-      "text": "To empower businesses with cutting-edge software solutions that drive growth, efficiency, and innovation."
+      "title": "Our mission",
+      "text": "Help businesses use AI in ways that save time and money, with software solid enough to run in production."
     },
     "values": {
-      "title": "Our Values",
+      "title": "Our values",
       "items": {
-        "quality": "Quality First",
-        "innovation": "Innovation",
+        "quality": "Quality first",
+        "innovation": "AI-first",
         "transparency": "Transparency",
         "commitment": "Commitment"
       }
@@ -89,9 +89,9 @@
     }
   },
   "contact": {
-    "badge": "Get In Touch",
-    "title": "Let's Build Something Amazing",
-    "subtitle": "Ready to start your project? We'd love to hear from you.",
+    "badge": "Get in touch",
+    "title": "Let's talk about your project",
+    "subtitle": "Have an idea for an AI feature, or a product that needs one? Write to us.",
     "form": {
       "name": "Your Name",
       "email": "Your Email",
@@ -106,7 +106,7 @@
     }
   },
   "footer": {
-    "description": "Software development company specialized in web and mobile applications.",
+    "description": "AI-first software development. Web and mobile apps, LLM integrations and AI agents.",
     "copyright": "© {year} Denis.pt. All rights reserved.",
     "imprint": "Imprint",
     "privacy": "Privacy Policy",
@@ -119,9 +119,9 @@
     }
   },
   "cta": {
-    "title": "Ready to Start?",
-    "subtitle": "Let's transform your ideas into reality. Get in touch today.",
-    "button": "Contact Us"
+    "title": "Ready to build with AI?",
+    "subtitle": "Tell us what you want to build and we'll show you where AI fits in.",
+    "button": "Contact us"
   },
   "cookies": {
     "title": "We use cookies",
