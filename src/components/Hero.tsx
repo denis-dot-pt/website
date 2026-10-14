@@ -3,6 +3,7 @@
 import { useTranslations } from 'next-intl';
 import { motion } from 'framer-motion';
 import { ArrowRight, Sparkles, Code2, Smartphone, Globe } from 'lucide-react';
+import ToptalBadge from './ToptalBadge';
 
 export default function Hero() {
   const t = useTranslations('hero');
@@ -72,6 +73,16 @@ export default function Hero() {
           <br />
           <span className="gradient-text">{t('titleHighlight')}</span>
         </motion.h1>
+
+        {/* Toptal Badge */}
+        <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.5, delay: 0.15 }}
+          className="flex justify-center mb-8"
+        >
+          <ToptalBadge />
+        </motion.div>
 
         {/* Subtitle */}
         <motion.p

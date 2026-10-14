@@ -8,12 +8,12 @@
     "imprint": "Impressum"
   },
   "hero": {
-    "badge": "Software-Entwicklung auf höchstem Niveau",
-    "title": "Digitale Erlebnisse",
-    "titleHighlight": "Gestalten",
-    "subtitle": "Wir verwandeln Ideen in leistungsstarke Softwarelösungen. Spezialisiert auf TypeScript, React, React Native und Next.js Entwicklung.",
-    "cta": "Projekt Starten",
-    "ctaSecondary": "Unsere Arbeit",
+    "badge": "KI-Engineering & Softwareentwicklung",
+    "title": "KI-First",
+    "titleHighlight": "Software",
+    "subtitle": "Wir entwickeln Software mit KI im Kern: LLM-Funktionen und Agenten in Ihrem Produkt und ein KI-gestützter Workflow auf unserer Seite. Unser Stack: TypeScript, React, React Native und Next.js.",
+    "cta": "Projekt starten",
+    "ctaSecondary": "Unsere Leistungen",
     "stats": {
       "projects": "Abgeschlossene Projekte",
       "satisfaction": "Kundenzufriedenheit",
@@ -21,40 +21,40 @@
     }
   },
   "services": {
-    "badge": "Unsere Leistungen",
-    "title": "Dienstleistungen",
-    "subtitle": "Umfassende Softwarelösungen, maßgeschneidert für Ihre Geschäftsanforderungen",
+    "badge": "Was wir machen",
+    "title": "Leistungen",
+    "subtitle": "KI steckt in allem, was wir tun, ob Sie ein neues Produkt brauchen oder KI in ein bestehendes bringen wollen.",
     "items": {
       "webDev": {
         "title": "Web-Entwicklung",
-        "description": "Moderne, responsive Webanwendungen mit Next.js und React. Blitzschnelle Leistung mit SEO-Optimierung."
+        "description": "Schnelle, SEO-freundliche Web-Apps mit Next.js und React, mit KI-Funktionen wie Chat, Suche oder Textgenerierung, wo sie sinnvoll sind."
       },
       "mobileDev": {
         "title": "Mobile Entwicklung",
-        "description": "Plattformübergreifende Mobile-Apps mit React Native. Eine Codebasis, native Leistung auf iOS und Android."
+        "description": "iOS- und Android-Apps aus einer React-Native-Codebasis, mit KI-Funktionen dort, wo sie Ihren Nutzern helfen."
       },
       "consulting": {
-        "title": "IT-Beratung",
-        "description": "Strategische Technologieberatung. Systemarchitektur, digitale Transformation und technische Roadmap-Planung."
+        "title": "KI- & IT-Beratung",
+        "description": "Wir finden mit Ihnen heraus, wo sich KI in Ihrem Unternehmen lohnt, welche Modelle und Tools passen und wie aus einem Prototyp ein Produktivsystem wird. Dazu Systemarchitektur und technische Roadmaps."
       },
       "customSoftware": {
         "title": "Individuelle Software",
-        "description": "Maßgeschneiderte Softwarelösungen, die speziell für Ihre einzigartigen Geschäftsanforderungen entwickelt werden."
+        "description": "Software nach Ihren Anforderungen, inklusive LLM-Integrationen, KI-Agenten und Automatisierungen, die mit Ihren eigenen Daten arbeiten."
       },
       "eventOrg": {
         "title": "Event-Technologie",
-        "description": "Digitale Lösungen für Konferenzen, Messen und Firmenveranstaltungen. Registrierungssysteme, Apps und Management-Plattformen."
+        "description": "Registrierungssysteme, Apps und Management-Plattformen für Konferenzen, Messen und Firmenveranstaltungen."
       },
       "maintenance": {
         "title": "Support & Wartung",
-        "description": "Laufender technischer Support, Updates und Wartung, damit Ihre Systeme reibungslos funktionieren."
+        "description": "Technischer Support, Updates und Wartung nach dem Launch, damit Ihre Systeme weiterlaufen."
       }
     }
   },
   "skills": {
     "badge": "Unsere Expertise",
-    "title": "Technologien, die wir beherrschen",
-    "subtitle": "Jahre der Erfahrung mit modernsten Technologien",
+    "title": "Unser Stack",
+    "subtitle": "Die Technologien, mit denen wir jeden Tag arbeiten.",
     "categories": {
       "frontend": "Frontend",
       "backend": "Backend",
@@ -64,17 +64,17 @@
   },
   "about": {
     "badge": "Über Denis.pt",
-    "title": "Die Zukunft der Software Gestalten",
-    "description": "Mit Sitz auf der wunderschönen Insel Madeira, Portugal, ist Denis.pt ein Softwareentwicklungsunternehmen, das sich auf außergewöhnliche digitale Lösungen konzentriert. Wir kombinieren technische Expertise mit kreativer Innovation, um Software zu entwickeln, die einen Unterschied macht.",
+    "title": "Ein KI-first Softwareunternehmen",
+    "description": "Denis.pt ist ein Softwareentwicklungsunternehmen mit Sitz in Funchal, Madeira. Wir arbeiten KI-first: Wir nutzen KI bei der Entwicklung und bauen sie in die Produkte ein, die wir liefern. Dabei wissen wir, wo sie hilft und wo nicht.",
     "mission": {
       "title": "Unsere Mission",
-      "text": "Unternehmen mit modernsten Softwarelösungen zu stärken, die Wachstum, Effizienz und Innovation vorantreiben."
+      "text": "Unternehmen helfen, KI so einzusetzen, dass sie Zeit und Geld spart, mit Software, die stabil genug für den Produktivbetrieb ist."
     },
     "values": {
       "title": "Unsere Werte",
       "items": {
-        "quality": "Qualität Zuerst",
-        "innovation": "Innovation",
+        "quality": "Qualität zuerst",
+        "innovation": "KI-first",
         "transparency": "Transparenz",
         "commitment": "Engagement"
       }
@@ -89,9 +89,9 @@
     }
   },
   "contact": {
-    "badge": "Kontaktieren Sie Uns",
-    "title": "Lassen Sie Uns Etwas Großartiges Bauen",
-    "subtitle": "Bereit, Ihr Projekt zu starten? Wir freuen uns von Ihnen zu hören.",
+    "badge": "Kontakt",
+    "title": "Lassen Sie uns über Ihr Projekt sprechen",
+    "subtitle": "Sie haben eine Idee für eine KI-Funktion oder ein Produkt, das eine braucht? Schreiben Sie uns.",
     "form": {
       "name": "Ihr Name",
       "email": "Ihre E-Mail",
@@ -106,7 +106,7 @@
     }
   },
   "footer": {
-    "description": "Softwareentwicklungsunternehmen spezialisiert auf Web- und Mobile-Anwendungen.",
+    "description": "KI-first Softwareentwicklung. Web- und Mobile-Apps, LLM-Integrationen und KI-Agenten.",
     "copyright": "© {year} Denis.pt. Alle Rechte vorbehalten.",
     "imprint": "Impressum",
     "privacy": "Datenschutz",
@@ -119,9 +119,9 @@
     }
   },
   "cta": {
-    "title": "Bereit Loszulegen?",
-    "subtitle": "Lassen Sie uns Ihre Ideen in die Realität umsetzen. Kontaktieren Sie uns heute.",
-    "button": "Kontakt Aufnehmen"
+    "title": "Bereit, mit KI zu bauen?",
+    "subtitle": "Erzählen Sie uns, was Sie bauen wollen, und wir zeigen Ihnen, wo KI hineinpasst.",
+    "button": "Kontakt aufnehmen"
   },
   "cookies": {
     "title": "Wir verwenden Cookies",

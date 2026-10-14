@@ -8,12 +8,12 @@
     "imprint": "Impressum"
   },
   "hero": {
-    "badge": "Excelência em Desenvolvimento de Software",
-    "title": "Criando Experiências",
-    "titleHighlight": "Digitais",
-    "subtitle": "Transformamos ideias em soluções de software poderosas. Especializados em desenvolvimento TypeScript, React, React Native e Next.js.",
-    "cta": "Iniciar Projeto",
-    "ctaSecondary": "Ver Trabalhos",
+    "badge": "Engenharia de IA e desenvolvimento de software",
+    "title": "Software",
+    "titleHighlight": "AI-First",
+    "subtitle": "Construímos software com IA no centro: funcionalidades com LLMs e agentes dentro do seu produto, e um fluxo de trabalho assistido por IA do nosso lado. A nossa stack: TypeScript, React, React Native e Next.js.",
+    "cta": "Iniciar projeto",
+    "ctaSecondary": "Ver serviços",
     "stats": {
       "projects": "Projetos Entregues",
       "satisfaction": "Satisfação do Cliente",
@@ -21,40 +21,40 @@
     }
   },
   "services": {
-    "badge": "O Que Fazemos",
+    "badge": "O que fazemos",
     "title": "Serviços",
-    "subtitle": "Soluções de software abrangentes adaptadas às necessidades do seu negócio",
+    "subtitle": "A IA está presente em tudo, quer precise de um produto novo, quer queira acrescentar IA a um que já tem.",
     "items": {
       "webDev": {
-        "title": "Desenvolvimento Web",
-        "description": "Aplicações web modernas e responsivas construídas com Next.js e React. Desempenho ultra-rápido com otimização SEO."
+        "title": "Desenvolvimento web",
+        "description": "Aplicações web rápidas e otimizadas para SEO em Next.js e React, com funcionalidades de IA como chat, pesquisa ou geração de conteúdo onde fazem sentido."
       },
       "mobileDev": {
-        "title": "Desenvolvimento Mobile",
-        "description": "Apps mobile multiplataforma com React Native. Uma base de código, desempenho nativo em iOS e Android."
+        "title": "Desenvolvimento mobile",
+        "description": "Apps iOS e Android a partir de uma única base de código React Native, com funcionalidades de IA onde ajudam os seus utilizadores."
       },
       "consulting": {
-        "title": "Consultoria TI",
-        "description": "Orientação tecnológica estratégica. Arquitetura de sistemas, transformação digital e planeamento de roadmaps técnicos."
+        "title": "Consultoria de IA e TI",
+        "description": "Ajudamos a perceber onde a IA compensa no seu negócio, que modelos e ferramentas se adequam e como passar do protótipo à produção. Também tratamos de arquitetura de sistemas e roadmaps técnicos."
       },
       "customSoftware": {
-        "title": "Software Personalizado",
-        "description": "Soluções de software sob medida, desenhadas e desenvolvidas para satisfazer os requisitos únicos do seu negócio."
+        "title": "Software personalizado",
+        "description": "Software feito à medida dos seus requisitos, incluindo integrações com LLMs, agentes de IA e automações que trabalham com os seus próprios dados."
       },
       "eventOrg": {
-        "title": "Tecnologia para Eventos",
-        "description": "Soluções digitais para conferências, feiras e eventos corporativos. Sistemas de registo, apps e plataformas de gestão."
+        "title": "Tecnologia para eventos",
+        "description": "Sistemas de registo, apps e plataformas de gestão para conferências, feiras e eventos corporativos."
       },
       "maintenance": {
-        "title": "Suporte e Manutenção",
-        "description": "Suporte técnico contínuo, atualizações e manutenção para manter os seus sistemas a funcionar sem problemas."
+        "title": "Suporte e manutenção",
+        "description": "Suporte técnico, atualizações e manutenção depois do lançamento, para que os seus sistemas continuem a funcionar."
       }
     }
   },
   "skills": {
-    "badge": "A Nossa Expertise",
-    "title": "Tecnologias que Dominamos",
-    "subtitle": "Anos de experiência com tecnologias de ponta",
+    "badge": "A nossa expertise",
+    "title": "A nossa stack",
+    "subtitle": "As tecnologias com que trabalhamos todos os dias.",
     "categories": {
       "frontend": "Frontend",
       "backend": "Backend",
@@ -64,17 +64,17 @@
   },
   "about": {
     "badge": "Sobre a Denis.pt",
-    "title": "Construindo o Futuro do Software",
-    "description": "Sediada na bela ilha da Madeira, Portugal, a Denis.pt é uma empresa de desenvolvimento de software focada em entregar soluções digitais excecionais. Combinamos expertise técnica com inovação criativa para construir software que faz a diferença.",
+    "title": "Uma empresa de software AI-first",
+    "description": "A Denis.pt é uma empresa de desenvolvimento de software sediada no Funchal, Madeira. Somos AI-first: usamos IA na forma como construímos software e integramo-la nos produtos que entregamos. Também sabemos onde ajuda e onde não ajuda.",
     "mission": {
-      "title": "A Nossa Missão",
-      "text": "Capacitar negócios com soluções de software de ponta que impulsionam crescimento, eficiência e inovação."
+      "title": "A nossa missão",
+      "text": "Ajudar empresas a usar IA para poupar tempo e dinheiro, com software sólido o suficiente para correr em produção."
     },
     "values": {
-      "title": "Os Nossos Valores",
+      "title": "Os nossos valores",
       "items": {
-        "quality": "Qualidade Primeiro",
-        "innovation": "Inovação",
+        "quality": "Qualidade primeiro",
+        "innovation": "AI-first",
         "transparency": "Transparência",
         "commitment": "Compromisso"
       }
@@ -89,9 +89,9 @@
     }
   },
   "contact": {
-    "badge": "Entre em Contacto",
-    "title": "Vamos Construir Algo Incrível",
-    "subtitle": "Pronto para iniciar o seu projeto? Adoraríamos ouvir de si.",
+    "badge": "Entre em contacto",
+    "title": "Vamos falar sobre o seu projeto",
+    "subtitle": "Tem uma ideia para uma funcionalidade de IA, ou um produto que precise de uma? Escreva-nos.",
     "form": {
       "name": "O Seu Nome",
       "email": "O Seu Email",
@@ -106,7 +106,7 @@
     }
   },
   "footer": {
-    "description": "Empresa de desenvolvimento de software especializada em aplicações web e mobile.",
+    "description": "Desenvolvimento de software AI-first. Apps web e mobile, integrações com LLMs e agentes de IA.",
     "copyright": "© {year} Denis.pt. Todos os direitos reservados.",
     "imprint": "Impressum",
     "privacy": "Política de Privacidade",
@@ -119,8 +119,8 @@
     }
   },
   "cta": {
-    "title": "Pronto para Começar?",
-    "subtitle": "Vamos transformar as suas ideias em realidade. Entre em contacto hoje.",
+    "title": "Pronto para construir com IA?",
+    "subtitle": "Diga-nos o que quer construir e mostramos-lhe onde a IA encaixa.",
     "button": "Contacte-nos"
   },
   "cookies": {
